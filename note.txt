@@ -2,5 +2,5 @@
 Git Collaboration Practice
 Topic: Fetch and Rebase
 Student: Your Name
-Local Changes: Not yet added
+Local Changes: Completed locally
 Remote Changes: Not yet added
